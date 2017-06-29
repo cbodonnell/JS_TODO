@@ -1,0 +1,12 @@
+* {
+	 /*
+	 border: 1px solid black;
+	 */
+	 
+	 font-family: Arial;
+}
+
+#todo-list {
+	width: 440px;
+	padding: 20px 40px 20px 40px;
+}
